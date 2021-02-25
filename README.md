@@ -4,7 +4,7 @@
 #### 1. iTunes phiên bản 12.6.5.3 
 >[**Download (64bit)**](https://www.mediafire.com/file/5crxy6ok4fmv1y5/iTunesSetup_12.6.5.3_64bit.exe/file) -      [**Download (32bit)**](https://www.mediafire.com/file/0gzssj39f3wruju/iTunesSetup_12.6.5.3_32bit.exe/file)
 
-#### 2. Tool hạ cấp iOS
+#### 2. Tool
  >[**Download**](http://www.mediafire.com/file/9gsiekbeohuzsji/DownloadOldIPATool_EN.rar/file)
 
 ## Thực hiện
