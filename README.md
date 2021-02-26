@@ -5,7 +5,7 @@
 >[**Download (64bit)**](https://www.mediafire.com/file/5crxy6ok4fmv1y5/iTunesSetup_12.6.5.3_64bit.exe/file) -      [**Download (32bit)**](https://www.mediafire.com/file/0gzssj39f3wruju/iTunesSetup_12.6.5.3_32bit.exe/file)
 
 #### 2. Tool
- >[**Download**](http://www.mediafire.com/file/9gsiekbeohuzsji/DownloadOldIPATool_EN.rar/file)
+ >[**Download**](http://www.mediafire.com/file/ixzysuqyyg5tp5h/DownloadOldIPATool_EN.zip/file)
 
 ## Thực hiện
 #### 1. Gỡ phiên bản iTunes bạn đang cài (nếu có)
