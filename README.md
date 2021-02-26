@@ -69,10 +69,16 @@
 
 ![enter image description here](https://i.ibb.co/7tk5V8J/Capture2.png)
 
+- Khi ấn tải sẽ có âm thanh ( tinh tinh :)) ) là tool đang hoạt động 
+
 - Tải xong file sẽ nằm ở trong đường dẫn
 	- **`%SystemDrive%\Users\%UserName%\Music\iTunes\iTunes Media\Mobile Applications`**
 
+- Còn muốn tải nhiều ver của cùng một app thì khi tải xong cần phải vào phần thư viện, xoá phiên bản vừa tải về rồi tiếp tục tải bản khác
+
+![enter image description here](https://i.ibb.co/GpD3qhn/Capture.png)
+
 #### 6. Cài file IPA vừa tải về
-- Dùng **3uTools** hoặc **iMazing** để cài file IPA đó
-	- Khi cài xong và mở app nó sẽ yêu cầu nhập mật khẩu của ID Appstore (ID mà bạn dùng để tải trên iTunes) 
+- Chỉ cài được file IPA đó thông qua **3uTools** hoặc **iMazing**
+	- Khi cài xong và mở app sẽ có yêu cầu nhập mật khẩu của ID Appstore (ID mà bạn dùng để tải trên iTunes): Nếu ID này bạn đã từng đăng nhập trên máy rồi thì nó sẽ không yêu cầu
 - File IPA đó bạn có thể share cho người khác (nhưng đừng quên share cả ID Appstore nữa nhé)
