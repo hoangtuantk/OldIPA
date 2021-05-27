@@ -5,10 +5,9 @@
 >[**Download**]
 
 #### 2. Tool
- >[**Download**]
+ >[**Download**](https://github.com/hoangtuantk/OldIPA/releases/download/0.1/DownloadOldIPATool_EN.zip)
 
 [**Download**]:https://docs.google.com/document/d/e/2PACX-1vQ28ssA31NUa184bjue9pSZca8MrgZfhOw4ECaRWt9ffjXd68taNCj417BBMsk9iHKGPI3TOCl140eK/pub
-[**Download**]:https://github.com/hoangtuantk/OldIPA/releases/download/0.1/DownloadOldIPATool_EN.zip
 
 ## Thực hiện
 #### 1. Gỡ phiên bản iTunes bạn đang cài (nếu có)
