@@ -2,13 +2,12 @@
 - Không cần phải Jailbreak máy
 ## Chuẩn bị
 #### 1. iTunes phiên bản 12.6.5.3 
->[**Download (64bit)**] - [**Download (32bit)**]
+>[**Download**]
 
 #### 2. Tool
  >[**Download**]
 
-[**Download (64bit)**]:https://github.com/hoangtuantk/OldIPA/releases/download/12.6.5.3_64bit/iTunes64Setup_12.6.5.3_64bit.exe
-[**Download (32bit)**]:https://github.com/hoangtuantk/OldIPA/releases/download/12.6.5.3_32bit/iTunesSetup_12.6.5.3_32bit.exe
+[**Download**]:https://docs.google.com/document/d/e/2PACX-1vQ28ssA31NUa184bjue9pSZca8MrgZfhOw4ECaRWt9ffjXd68taNCj417BBMsk9iHKGPI3TOCl140eK/pub
 [**Download**]:https://github.com/hoangtuantk/OldIPA/releases/download/0.1/DownloadOldIPATool_EN.zip
 
 ## Thực hiện
