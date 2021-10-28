@@ -27,7 +27,7 @@
 
 ![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/03-3.png)
 
-#### 4. Mở tool
+#### 4. Mở tool (Lưu ý: Tắt phần mềm diệt Virus trước khi giải nén Tool)
 
 ![](https://raw.githubusercontent.com/hoangtuantk/OldIPA/main/img/04.png)
 
