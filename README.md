@@ -4,7 +4,7 @@
 #### 1. iTunes phiên bản 12.6.5.3 
 >[**Download**](https://dl.tuandb.name.vn/Applications/iTunes)
 
-#### 2. Tool (Mật khẩu giải nén: 123)
+#### 2. Tool
  >[**Download**](https://dl.tuandb.name.vn/Applications/OldIPATool)
 
 ## Thực hiện
