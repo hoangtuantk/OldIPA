@@ -54,7 +54,7 @@
 > Đến đây là đã có thể tải được phiên cũ rồi
 
 #### 5. Mở iTunes và tải app 
-- Cần phải đăng nhập tài khoản Appstore
+- Cần phải đăng nhập tài khoản Appstore (Lưu Ý: Phải tắt tool thì mới đăng nhập được)
 
 ##### App nào bạn chưa từng tải  thì cần phải **tắt Tool** và tiến hành tải (**Get**)
 
